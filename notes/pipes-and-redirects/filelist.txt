@@ -1,0 +1,5 @@
+total 8
+drwxrwxr-x 2 sean sean 4096 Feb 16 14:44 .
+drwxrwxr-x 3 sean sean 4096 Feb 16 14:39 ..
+-rw-rw-r-- 1 sean sean    0 Feb 16 14:44 filelist.txt
+Another line
